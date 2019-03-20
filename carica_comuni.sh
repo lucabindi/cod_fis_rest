@@ -1,0 +1,1 @@
+sqlldr  testuser1/testuser1@//192.168.33.20:1521/orclpdb1 control=carica_comuni.ctl data=comuni_italiani.txt log=carica_comuni.log bad=carica_comuni.bad
